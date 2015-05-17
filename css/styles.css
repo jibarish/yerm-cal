@@ -1,0 +1,12 @@
+body {
+  background: #000;
+  color: #FFF;
+}
+
+.display {
+  color: #B89BDE;
+  font-size: 1400%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
